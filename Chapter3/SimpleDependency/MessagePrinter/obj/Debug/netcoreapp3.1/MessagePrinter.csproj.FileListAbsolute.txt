@@ -1,0 +1,8 @@
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\MessagePrinter\bin\Debug\netcoreapp3.1\MessagePrinter.deps.json
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\MessagePrinter\bin\Debug\netcoreapp3.1\MessagePrinter.dll
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\MessagePrinter\bin\Debug\netcoreapp3.1\MessagePrinter.pdb
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\MessagePrinter\obj\Debug\netcoreapp3.1\MessagePrinter.csprojAssemblyReference.cache
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\MessagePrinter\obj\Debug\netcoreapp3.1\MessagePrinter.AssemblyInfoInputs.cache
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\MessagePrinter\obj\Debug\netcoreapp3.1\MessagePrinter.AssemblyInfo.cs
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\MessagePrinter\obj\Debug\netcoreapp3.1\MessagePrinter.dll
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\MessagePrinter\obj\Debug\netcoreapp3.1\MessagePrinter.pdb

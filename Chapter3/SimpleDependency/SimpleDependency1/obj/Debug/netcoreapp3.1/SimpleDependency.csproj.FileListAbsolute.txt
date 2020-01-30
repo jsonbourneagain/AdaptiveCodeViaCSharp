@@ -1,0 +1,14 @@
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\bin\Debug\netcoreapp3.1\SimpleDependency.exe
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\bin\Debug\netcoreapp3.1\SimpleDependency.deps.json
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\bin\Debug\netcoreapp3.1\SimpleDependency.runtimeconfig.json
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\bin\Debug\netcoreapp3.1\SimpleDependency.runtimeconfig.dev.json
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\bin\Debug\netcoreapp3.1\SimpleDependency.dll
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\bin\Debug\netcoreapp3.1\SimpleDependency.pdb
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\bin\Debug\netcoreapp3.1\MessagePrinter.dll
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\bin\Debug\netcoreapp3.1\MessagePrinter.pdb
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\obj\Debug\netcoreapp3.1\SimpleDependency.csprojAssemblyReference.cache
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\obj\Debug\netcoreapp3.1\SimpleDependency.AssemblyInfoInputs.cache
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\obj\Debug\netcoreapp3.1\SimpleDependency.AssemblyInfo.cs
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\obj\Debug\netcoreapp3.1\SimpleDependency.csproj.CopyComplete
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\obj\Debug\netcoreapp3.1\SimpleDependency.dll
+D:\APersonal\AdaptiveCodeViaCSharp\Chapter3\SimpleDependency\SimpleDependency1\obj\Debug\netcoreapp3.1\SimpleDependency.pdb
